@@ -2,7 +2,7 @@
 
 Movie information from The Movie DB. (https://www.themoviedb.org/)
 
-This Android app is a demo.
+This Android app is a demo showing MVVM and Clean architecture layering principles.
 
 It fetches a list of the latest, most popular movies from The Movie DB, diplays them in a list and allows movies to be selected to display more detailed information.
 
@@ -35,11 +35,12 @@ The Domain specifies repository interfaces, data models and UseCases.
 
 # TODOs.
 
+TODO - Fix build.gradle dependency versioning.
+
+TODO - Finish testsuite for ViewModels and Data.
+
 TODO - Add Room based persistent storage.
 
 TODO - Add background data refresh.
 
 TODO - Allow sorting of data.
-
-TODO - Write testsuite.
-
