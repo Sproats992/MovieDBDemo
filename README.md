@@ -2,7 +2,7 @@
 
 Movie information from The Movie DB. (https://www.themoviedb.org/)
 
-This Android app is a demo showing MVVM and Clean architecture layering principles.
+This Android app is a demo showing MVVM and Clean architecture layering principles, using Kotlin Coroutines and Flow to manage reactive streams.
 
 It fetches a list of the latest, most popular movies from The Movie DB, diplays them in a list and allows movies to be selected to display more detailed information.
 
