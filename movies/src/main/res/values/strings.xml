@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="latest_movies">Latest Movies!</string>
+    <string name="movie_details">Movie Details</string>
+
+    <string name="popularity">Popularity: %1$s.</string>
+    <string name="released_on">Released on: %1$s.</string>
+
+    <string name="please_wait_movies">"Please wait, fetching movies."</string>
+    <string name="please_wait_movie_detail">"Please wait, fetching movie info."</string>
+</resources>

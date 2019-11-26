@@ -1,0 +1,2 @@
+include ':app', ':movies', ':repository', ':Domain'
+rootProject.name='MovieDBTest'
